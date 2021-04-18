@@ -1,6 +1,6 @@
 # hangman
 
-This is a simple hangman game that I while learning how to code in Python. I am currently going through the book "Python Projects for Begginers: A Ten-Week Bootcamp Approach to Python Programming" and this is the project for week 04. 
+This is a simple hangman game that I created while learning how to code in Python. I am currently going through the book "Python Projects for Begginers: A Ten-Week Bootcamp Approach to Python Programming" and this is the project from week 04. 
 
 I did deviate a bit from the source code in the book. The changes implemented:
 
